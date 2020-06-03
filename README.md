@@ -1,4 +1,4 @@
-# _talk_
+# _DOM manipulation and traversal_
 
 #### _This program will display buttons which allow the user to select a "message to the webpage". The webpage will in turn respond with a message of it's own.
 
@@ -10,8 +10,8 @@ _This project has been designed using HTML, and Bootstrap v3.3.7, and JQuery. It
 
 ## Setup/Installation Requirements
 
-* _In your web browser, navigate to [dcole505 talk repository](https://github.com/dcole505/talk.git)_
-* _In terminal, type '$ git clone https://github.com/dcole505/talk.git' To clone the project from GitHub onto your local machine_
+* _In your web browser, navigate to [dcole505 talk repository](https://github.com/dcole505/DOM-manipulation-and-traversal.git)_
+* _In terminal, type '$ git clone https://github.com/dcole505/DOM-manipulation-and-traversal.git' To clone the project from GitHub onto your local machine_
 * _Navigate to the file folder that contains the GitHub repository you've cloned._
 * _Right click on the .HTML file and open it in your web browser to view_
 * _or_
